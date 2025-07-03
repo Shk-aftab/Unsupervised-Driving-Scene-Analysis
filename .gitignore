@@ -1,0 +1,13 @@
+# Ignore Python virtual environment
+.venv/ 
+
+yolo11n-seg.pt
+
+data/frames/
+data/perception_output
+
+*.mp4
+
+Driving1080p.mp4
+
+
