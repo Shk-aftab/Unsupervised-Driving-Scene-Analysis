@@ -11,3 +11,20 @@ data/perception_output
 Driving1080p.mp4
 
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Data and Reports (Keep the repo lightweight)
+
+# IDE specific
+.vscode/
+.idea/
