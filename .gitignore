@@ -28,3 +28,7 @@ env/
 # IDE specific
 .vscode/
 .idea/
+
+.DS_Store
+
+.gitignore
